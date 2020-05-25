@@ -1,0 +1,18 @@
+{
+    "name": "yinglei/composer_test",
+    "description": "it is a composer test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "李英磊",
+            "email": "yingleili123@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hello\\": "src/"
+        }
+    }
+}
